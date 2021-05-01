@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/VenkySVR">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VenkySVR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VenkySVR&layout=compact&langs_count=8&theme=algolia"/>
 </a>
