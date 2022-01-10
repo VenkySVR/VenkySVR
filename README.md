@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile.  
+I'm Venkata Ramana S. an undergradute student pursuing my B.TECH in Computer Science at Indian Institute of Information Technology, Dharwad.
 
 <!--
 **VenkySVR/VenkySVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
