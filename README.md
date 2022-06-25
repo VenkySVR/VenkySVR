@@ -16,10 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 I’m currently working on a Hindi ASR.
-- 🌱 I’m currently learning Blockchain, DevOps, WebSockets.
-- 👯 I’m looking to collaborate on ML, DeepLearning projects.
-- 🤔 I’m looking for help on ASR with wave2vec, gRPC, socket.io.
-- 💬 Ask me about Web development, MVC architecture, Node.js, MongoDB, ML scikit-learn, XGBoost.
-- 📫 How to reach me: Venky.s.vr13@gmail.com, +91 7997766183.
